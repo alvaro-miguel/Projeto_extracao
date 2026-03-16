@@ -1,7 +1,7 @@
 from deep_translator import GoogleTranslator
 import re, pdfplumber, numerize
 
-NOME_ARQUIVO = "moraes-remicao-daniel-silveira.pdf"
+NOME_ARQUIVO = ""
 
 def extensotonum(texto):
     if not texto: return None
