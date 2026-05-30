@@ -1,0 +1,6 @@
+exemplares_documentos/
+
+*.docx
+
+__pycache__/
+*.pyc
